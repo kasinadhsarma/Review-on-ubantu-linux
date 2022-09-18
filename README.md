@@ -24,4 +24,4 @@ updating gnome shell and gnome doing ethical hacking with smooth keyboard my ful
 * there are many tools i have been encrypted one of my best encrypting code of ransomeware is  
 > https://github.com/kasinadhsarma/malwarevirus/tree/main/ransomeware
 
-### ubantu make me more happy through cyber security I Love Ubantu Linux Forever
+### Ubantu make me more Happy through cyber security I Love Ubantu Linux Forever
