@@ -15,6 +15,11 @@ updating gnome shell and gnome doing ethical hacking with smooth keyboard my ful
 
 * Gaming problems done by heroic and steam proton && heroic bash the problems came one by one like this
 
+### first downloaded version on ubantu by me
+* The first version is zorin Z
+* The second version is ubantu 20.04
+* The second version also kubantu
+* The third version is ubantu 22.04
 ### explaining about tools
 
 * so much smooth in linux through vpn one of my best tool is metasploit
